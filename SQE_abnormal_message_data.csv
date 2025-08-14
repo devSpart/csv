@@ -1,4 +1,4 @@
-"@timestamp","email.message_id","threat.tactic.name","threat.indicator.reference","abnormal_security.threat.summary_insights","abnormal_security.threat.remediation_status","abnormal_security.threat.auto_remediated"
+"@timestamp","email_message_id","threat_tactic_name","threat_indicator_reference","abnormal_security_threat_summary_insights","abnormal_security_threat_remediation_status","abnormal_security_threat_auto_remediated"
 "Aug 14, 2025 @ 19:15:53.000","<76764041353122295424739@WIN-7075HBCK1KR>",Spam,"https://portal.abnormalsecurity.com/home/threat-center/remediation-history/-4521038118856334031","Unusual Sender",Remediated,false
 "Aug 14, 2025 @ 19:15:53.000","<76764041353122295424739@WIN-7075HBCK1KR>",Spam,"https://portal.abnormalsecurity.com/home/threat-center/remediation-history/-1684042735134788372","Unusual Sender",Remediated,false
 "Aug 14, 2025 @ 19:14:50.000","<47804112902721868414914@DESKTOP-MQ7BKO8>",Spam,"https://portal.abnormalsecurity.com/home/threat-center/remediation-history/6695600785162285682","Unusual Sender, Unusual IP Geolocation, Unusual Sender Domain, Unusual Reply To",Remediated,false
