@@ -1,0 +1,224 @@
+﻿InternetMessageID,SublimeFlaggedRuleName
+<86CDEFC6-29BA-2348-B4D9-9F734456A294@hxcore.ol>,Fake thread with suspicious indicators
+<CAKq=c0WmpxiZ1FVGT14wwY4AmWq31b-cWTf-xO__J9nev4u4Ww@mail.gmail.com>,"Business Email Compromise (BEC) with request for mobile number, Business Email Compromise (BEC) attempt from untrusted sender, Employee impersonation with urgent request (untrusted sender), VIP impersonation with BEC language (near match, untrusted sender), VIP impersonation with urgent request (strict match, untrusted sender), VIP / Executive impersonation (strict match, untrusted)"
+<01010198f327edc9-1b387956-2acb-4fc8-a56b-abeb6c151bca-000000@us-west-2.amazonses.com>,Request for Quote or Purchase (RFQ|RFP) with suspicious sender or recipient pattern
+<01010198f327ed45-f227b12d-9e3b-404b-9c54-230c716407f8-000000@us-west-2.amazonses.com>,Request for Quote or Purchase (RFQ|RFP) with suspicious sender or recipient pattern
+<01010198f327ee4a-bbf0c305-0170-4036-b377-3408506fa6b2-000000@us-west-2.amazonses.com>,Request for Quote or Purchase (RFQ|RFP) with suspicious sender or recipient pattern
+<eba7428c-4804-461a-92f5-69fefcbefe77@iad4s13mta1505.xt.local>,"Business Email Compromise (BEC) attempt from untrusted sender, Business Email Compromise (BEC) attempt from unsolicited sender"
+<1cf22805-2d1a-445c-9c53-cf3cc1c3ecd9@iad4s13mta1511.xt.local>,"Business Email Compromise (BEC) attempt from untrusted sender, Business Email Compromise (BEC) attempt from unsolicited sender"
+<55ff1c88-a513-474b-94c7-b18ea5ad5b49@iad4s13mta1511.xt.local>,"Business Email Compromise (BEC) attempt from untrusted sender, Business Email Compromise (BEC) attempt from unsolicited sender"
+<c6b26c5b-b8a0-4388-accf-1b3841a2d933@iad4s13mta1503.xt.local>,"Business Email Compromise (BEC) attempt from untrusted sender, Business Email Compromise (BEC) attempt from unsolicited sender"
+<47209a62-2a65-4ebc-9b29-3235f34a2aee@iad4s13mta1505.xt.local>,"Business Email Compromise (BEC) attempt from untrusted sender, Business Email Compromise (BEC) attempt from unsolicited sender"
+<4d9e380c-161a-6cf8-2023-e672bb3aad5b@habitatinnovation.com.au>,"Attachment: Embedded Javascript in SVG file, Attachment: SVG files with evasion elements, Unusually long local part from untrusted sender address"
+<MAZPR01MB81478CDA6BCCC6222B4F8B66DF3BA@MAZPR01MB8147.INDPRD01.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MAZPR01MB81478CDA6BCCC6222B4F8B66DF3BA@MAZPR01MB8147.INDPRD01.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MAZPR01MB81478CDA6BCCC6222B4F8B66DF3BA@MAZPR01MB8147.INDPRD01.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MAZPR01MB81478CDA6BCCC6222B4F8B66DF3BA@MAZPR01MB8147.INDPRD01.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MA5P287MB4189C5AC7B6641E449F98E79C13BA@MA5P287MB4189.INDP287.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MA5P287MB4189C5AC7B6641E449F98E79C13BA@MA5P287MB4189.INDP287.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MA5P287MB4189C5AC7B6641E449F98E79C13BA@MA5P287MB4189.INDP287.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<MA5P287MB4189C5AC7B6641E449F98E79C13BA@MA5P287MB4189.INDP287.PROD.OUTLOOK.COM>,Spam: Attendee list solicitation
+<20250828164211.3.04c8f18c638f5d59@mg-d0.substack.com>,Spam: Cryptocurrency airdrop/giveaway
+<01.61.40868.1C950B86@i-0c4a0104f84e42fd8.mta2vrest.sd.prd.sparkpost>,Credential phishing content and link (untrusted sender)
+"<Share-8e26c0a1-a066-5000-c04f-662c7128cced,8e26c0a1-a066-5000-c04f-662c7128cced-65ea1746-c38f-4fad-8d7e-8a4f65b0c632-r0-SendEmail-rh_ae-aid_9a2e53f5-9020-4b84-9897-006d69a66666@odspnotify>",Link: Secure SharePoint file share from new or unusual sender
+<20250828122546.E2EA501FB1427956@devseoads.life>,Spam: Attendee list solicitation
+<20250828054500.232505DB9E965472@devseoads.life>,Spam: Attendee list solicitation
+<20250828054500.9852501B3BBFE21D@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.C933F1719EF36C71@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.4068DF7C7C378F6A@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.C933F1719EF36C71@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.C933F1719EF36C71@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.4068DF7C7C378F6A@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.C933F1719EF36C71@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.4068DF7C7C378F6A@devseoads.life>,Spam: Attendee list solicitation
+<20250826003703.4068DF7C7C378F6A@devseoads.life>,Spam: Attendee list solicitation
+<20250826003200.6598F68289B3E23C@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.EEFB391CFD18DC5D@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.EEFB391CFD18DC5D@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.EEFB391CFD18DC5D@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.EEFB391CFD18DC5D@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.F78658EFB358E2F1@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.F78658EFB358E2F1@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.F78658EFB358E2F1@devseoads.life>,Spam: Attendee list solicitation
+<20250825125157.F78658EFB358E2F1@devseoads.life>,Spam: Attendee list solicitation
+<20250825125156.4D1F089ED189B30E@devseoads.life>,Spam: Attendee list solicitation
+<20250825125156.4D1F089ED189B30E@devseoads.life>,Spam: Attendee list solicitation
+<20250825125156.4D1F089ED189B30E@devseoads.life>,Spam: Attendee list solicitation
+<20250825125156.4D1F089ED189B30E@devseoads.life>,Spam: Attendee list solicitation
+<20250825093926.DB182670003BDDEC@devseoads.life>,Spam: Attendee list solicitation
+<Z63Yxl1tSeyKsTufbZ0KAA.edIc3SvqEtuAYgD4UPrBcxs@sfdc.net>,Fake thread with suspicious indicators
+<DiojE3uWSquIqG_od_TVOg.ctlCb-mnE1aPpmF34Em3Yhs@sfdc.net>,Fake thread with suspicious indicators
+<n8uUIHUGRj2NS6kM9fmMew.Yj-BfluvH9meeNRcrOZtJBs@sfdc.net>,Fake thread with suspicious indicators
+<AL5W1cwySquVuQ12fc4gJA.3DscnoW0EkyaE7D4Wseqghs@sfdc.net>,Fake thread with suspicious indicators
+<PoZ0407bSMqwTi5asnjaNQ.T2R_atAWHtiSNYSFKnJipBs@sfdc.net>,Fake thread with suspicious indicators
+<AL5W1cwySquVuQ12fc4gJA.3DscnoW0EkyaE7D4Wseqghs@sfdc.net>,Fake thread with suspicious indicators
+<cIDTZwZ3Tse9-Sr0uyQoGw.kWzb15DdHK-UTxJWlkQYQBs@sfdc.net>,Fake thread with suspicious indicators
+<dQLImeH5QTKrXyTU8yC7Dw.H45H4CYeHAOyEF24Tb5rGBs@sfdc.net>,Fake thread with suspicious indicators
+<AXLInB4TTOOvHC3OwK0f1g.Pnn64Yd-EyWTL5hAO3V7sBs@sfdc.net>,Fake thread with suspicious indicators
+<SKgXybysSGGeEcUNmf5Oug.z-IG0c2bFHq0YoP5y1YPHRs@sfdc.net>,Fake thread with suspicious indicators
+<mPqdNSPvSaaXs8T8F69S2w.oj3KQYu-FTSsm2hQkZKs-xs@sfdc.net>,Fake thread with suspicious indicators
+<AooqidUySR-eEqrskVMf0Q.vDfRenOjH66KOdAtr0G2Xxs@sfdc.net>,Fake thread with suspicious indicators
+<01A4bTLsRxyFYqAZYXr61g.oVez7lWKG3mTj73cGVHMsBs@sfdc.net>,Fake thread with suspicious indicators
+<0p5qTFWURrmprfZzR_vyzw.B1bZV_nbGsOqYqBDplbI9Rs@sfdc.net>,Fake thread with suspicious indicators
+<VZweIZO6QOmXfFc3rxFxDw.JLNVEG1yGTizLL7l-h3ySBs@sfdc.net>,Fake thread with suspicious indicators
+<ZvpTJ3zSSliMWuCq95OQMA.pxkuMCb7ETyPDDs4njfKhBs@sfdc.net>,Fake thread with suspicious indicators
+<TZTh1EeRRRqkx9Be8J9BbA.YLpHX68iHA6G0yIqyMfGnRs@sfdc.net>,Fake thread with suspicious indicators
+<N0uGPiooRwaNfTgROMkkeg.gKOydsuvHPOAm11mKkb8Hxs@sfdc.net>,Fake thread with suspicious indicators
+<cZNzrs4TR26PrglNPC-Fnw.Q8kQlx82GteRANM5w17HLhs@sfdc.net>,Fake thread with suspicious indicators
+<sF5TF1_3Rxmqw2l_e69m-A.TZKiQSkYFoevexrOn3nNbxs@sfdc.net>,Fake thread with suspicious indicators
+<yoX_HVKhQ--mjgH2HRUw1A.-EXlvbtSFSKoPVCanPbJyBs@sfdc.net>,Fake thread with suspicious indicators
+<sr8Y03mpSKeKsbV80TKGng.su00if7KEfW7tQiPvmWOdxs@sfdc.net>,Fake thread with suspicious indicators
+<Etka1NMCSm-ncf-c5UF6-A.kxzgFKKxEn63fDpNtVJILxs@sfdc.net>,Fake thread with suspicious indicators
+<r7LOtEgLSDG8_1MjFPftmA.Am9GLVzJGPyYSAiCppOo0Rs@sfdc.net>,Fake thread with suspicious indicators
+<wPFbk9LqTDK6WET221j76Q.j88KHZrhFyCHCEZ0o0yt-Rs@sfdc.net>,Fake thread with suspicious indicators
+<SY2PPF3A5462C095291641D76D636A93568F53BA@SY2PPF3A5462C09.AUSP300.PROD.OUTLOOK.COM>,VIP / Executive impersonation in subject (untrusted)
+<SEZPR04MB7765AAD7CE38B13CBC0DFD32D23BA@SEZPR04MB7765.apcprd04.prod.outlook.com>,Business Email Compromise (BEC) attempt from untrusted sender
+<SEZPR04MB7765AAD7CE38B13CBC0DFD32D23BA@SEZPR04MB7765.apcprd04.prod.outlook.com>,Business Email Compromise (BEC) attempt from untrusted sender
+<SEZPR04MB7765AAD7CE38B13CBC0DFD32D23BA@SEZPR04MB7765.apcprd04.prod.outlook.com>,Business Email Compromise (BEC) attempt from untrusted sender
+<SEZPR04MB7765AAD7CE38B13CBC0DFD32D23BA@SEZPR04MB7765.apcprd04.prod.outlook.com>,Business Email Compromise (BEC) attempt from untrusted sender
+<b3075afb-0d75-4c9b-a5ee-68416d35e5a0@ME0P282MB5232.AUSP282.PROD.OUTLOOK.COM>,Credential phishing: Fake password expiration from new and unsolicited sender
+<gzX8hF-MStSvRD1GrzN-Mg@geopod-ismtpd-canary-0>,Request for Quote or Purchase (RFQ|RFP) with suspicious sender or recipient pattern
+<_KydFHyPQHSC9nGDAk6JLw@geopod-ismtpd-7>,Request for Quote or Purchase (RFQ|RFP) with suspicious sender or recipient pattern
+<SY2PPF3A5462C096AD1B5D7126E1F5494FAF53BA@SY2PPF3A5462C09.AUSP300.PROD.OUTLOOK.COM>,VIP / Executive impersonation in subject (untrusted)
+<01000198ef59a412-d78b0d3e-f0b0-4fa3-9162-33b8b3227789-000000@email.amazonses.com>,Link: Adobe share with suspicious indicators
+<DOCPRDAUSSEIS06eFUt0000306f@ausmtp.doc.ineight.com>,Fake thread with suspicious indicators
+<DOCPRDAUSSEIS06eFUt0000306f@ausmtp.doc.ineight.com>,Fake thread with suspicious indicators
+<a734b317-6895-5f9f-a371-17ec8afacb88@pd1.sendpdr.com>,Credential phishing link (unknown sender)
+<2c5f7b8c-b6d3-5953-93b0-059d95e25b9e@pd1.sendpdr.com>,Credential phishing link (unknown sender)
+<629793817.5070.1756354280817@app128185.mel201.service-now.com>,"Impersonation: Internal corporate services, Credential phishing: Fake password expiration from new and unsolicited sender"
+<01010198eedb4954-8eba4ce6-f740-4df8-b28f-506adfc6eefd-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eed9885a-d5bfe5f5-0bf7-4717-b347-1399a78e2325-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eed7fd6b-c2caf331-abcf-4a2e-9dca-ec400a374f65-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eed71b6d-88d46f2c-f104-476a-9868-f6e5218f10a3-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eed60f55-5ee5a426-c4cd-41f8-86a8-dfab66326ac1-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eed231c8-edba0969-9c5c-431d-a105-ea0d68b88b88-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198edf14b97-9a6e1882-0511-4a8f-b29e-18709b44d6e9-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ededac08-ee1d38a8-a6f6-4713-b205-5b6f7dbfb9c2-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198edec8c61-9731fe9b-d168-43dd-9370-1a9ebdec7e64-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198eddca647-88141088-0fba-40e3-8537-3b0bd74741e9-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198edda06eb-81a25062-0823-4ea7-86d5-59bb85b80064-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<d94da2b1-449e-40c3-abd6-d99ca32edd38@SY7P282MB5113.AUSP282.PROD.OUTLOOK.COM>,Credential phishing: Fake password expiration from new and unsolicited sender
+<39a721bf-1113-f1a9-dd16-82cf40fc34c5@savo.ch>,"Credential phishing: DocuSign embedded image lure with no DocuSign domains in links, Brand impersonation: DocuSign, Unusually long local part from untrusted sender address, Fake thread with suspicious indicators, Credential phishing language and suspicious indicators (unknown sender)"
+<01010198ee7e42dd-9c69d135-af1b-4bd3-94d1-535ebde0c923-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ee7b94bd-d39b6d53-9f16-4827-a96d-37542fbab788-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ee7b8715-a8e149e7-fd6c-470a-979d-f8f7dc26a16f-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ee7a9092-88aabc96-c328-4b3b-9959-827fa720cf56-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ee78fce2-730f3a2e-d807-48c4-9942-fe46df62ab6d-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<01010198ee78aa7e-0605e198-922e-4ad1-9908-550949391860-000000@us-west-2.amazonses.com>,Suspicious newly registered reply-to domain with engaging financial or urgent language
+<F9dSGYrOQvu1JKjZyhPUQQ@geopod-ismtpd-3>,Predatory Academic Journal Solicitation
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-fe8d608e-3a3a-49bb-89a8-83c57c8465a5-r0-SendEmail-rh_ae-aid_a93b338f-5103-4055-a6c9-3027ed146552@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-83a8468c-3e8e-437e-9555-8aeee53485b7-r0-SendEmail-rh_ae-aid_7682d3b9-38c1-49e2-a209-1dbda1b8eb30@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-63cd5d5d-626a-47f6-af27-8e16153e36e4,63cd5d5d-626a-47f6-af27-8e16153e36e4-fa279c49-78b8-46ac-a234-e02639367087-r0-SendEmail-rh_ae-aid_7ed30fae-40dd-42b4-9a66-8a428cf7fd81@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-6a8a4ecc-c45c-4ea4-a95a-41131161c22b,6a8a4ecc-c45c-4ea4-a95a-41131161c22b-1e4d12c7-cb7d-481f-961e-56562377b15f-r0-SendEmail-rh_ae-aid_b018c65a-dbfa-49f1-bd72-e24855af3772@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-d12ec4d2-40ae-49aa-96c9-9caba59488bb-r0-SendEmail-rh_ae-aid_ec01b4be-3868-4594-b236-413fb2020528@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-ebdc27b2-874d-4d2e-b6f4-81c633ecaa6c-r0-SendEmail-rh_ae-aid_a9b1934f-e43d-4cac-9f6b-cc6443d3d568@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-435721d5-c412-41cd-871d-381914de290f-r0-SendEmail-rh_ae-aid_f6118b4d-25bb-4377-944e-8b937e2df604@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-d1ec23fc-2813-49b9-9f57-6bd1a0bb9669-r0-SendEmail-rh_ae-aid_bc7f391f-ff11-4a47-a92e-cee1b6b774d4@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-042b1015-94c8-4825-a9b5-6c03907c99e6-r0-SendEmail-rh_ae-aid_73b4ba3b-ddcb-47d0-9a3b-3a7ff1264cb3@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-e6223f15-8aa5-45f2-a0c2-f0ae0a01db3b-r0-SendEmail-rh_ae-aid_ea4a7b9b-dc75-4972-85b3-76944d78db75@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+<SpoImmediateAlert-f015d4c2-9a66-4f49-824a-a876286254db-94cd3166-32b8-4395-9d9a-f72028d74555-r0-SendEmail-rh_ae-aid_7f864e67-c2ec-49b7-9e09-b4dace617622@odspnotify>,Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-852f3bde-a362-44f6-a64c-eb95cde64d96-r0-SendEmail-rh_ae-aid_619792af-bac6-432f-b0d1-8f5627e5aa22@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-d3e90aea-5e39-410f-8912-6a4defebcdde-r0-SendEmail-rh_ae-aid_ab3851f3-63f2-43de-8496-bcbc1a6de34b@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-f04add15-8fe4-4799-85c3-b29472a6ff97-r0-SendEmail-rh_ae-aid_f1e27cdc-fd60-4899-a4cd-f941ee89966a@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-c814ae17-0adb-4939-af92-7b143455c7cc-r0-SendEmail-rh_ae-aid_854cd30e-5c0d-4a0f-a629-ce814a54f21b@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5372c855-b0b7-47c3-8015-ff20d42c10e0,5372c855-b0b7-47c3-8015-ff20d42c10e0-322506fa-57e6-48f8-a3b5-409f348e2471-r0-SendEmail-rh_ae-aid_a90fa6c4-c28c-49e2-ba6c-db7bec276f06@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-0e9a65ea-c84b-4741-a315-7df40f3122c1-r0-SendEmail-rh_ae-aid_4037256b-a45b-492d-8aef-c23b91541776@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-8239194c-c967-4e35-8877-ff3efdc38430-r0-SendEmail-rh_ae-aid_98690b99-0bbc-4bc2-898b-93d3aaf91638@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-217cafec-0775-46b1-a7a9-8d6d9297e44c-r0-SendEmail-rh_ae-aid_31ddacbf-7b0b-44d2-8208-9f0eacd929f7@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-393a80f2-bfc2-434c-b1c1-6a940d050b3b-r0-SendEmail-rh_ae-aid_3d07ef25-1e8c-47f8-af61-bdc68d06627b@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-57d65b05-87f7-4bc4-baf8-7150295e12e1-r0-SendEmail-rh_ae-aid_9aeff04a-32d9-4dfb-ab5f-e517ac7ea616@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-58857a1a-9f69-483e-9244-9e086c310f7b-r0-SendEmail-rh_ae-aid_c498eebb-e198-4a77-9832-0f4045b9158c@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-5af2c03b-a9b1-4d47-a9e0-88b149e939fc-r0-SendEmail-rh_ae-aid_976abbf0-cc83-41bc-9d4a-720f26b7cf49@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-3cf75d82-1d64-499a-9cd9-fe8607e8c5d6-r0-SendEmail-rh_ae-aid_39b22b68-0d9d-4e6b-925e-905cebd0cd68@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-b1927dab-5442-41ab-82f5-6957461da525-r0-SendEmail-rh_ae-aid_e658317b-e153-4158-b89a-2bf4e0b1837c@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+<SpoImmediateAlert-df3a37fc-eabd-4111-9846-4e7f9ecd0fa5-4160f3fc-e23f-43e3-9dfa-b20705722e14-r0-SendEmail-rh_ae-aid_811404b2-b9fc-4380-bebe-820f423dce5f@odspnotify>,Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-1b03a6ca-7678-40da-a4cc-8de2d1a1d062-r0-SendEmail-rh_ae-aid_220a8f57-2355-4680-8620-2153fc49e665@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8dd2e9f4-a02f-42e6-80d8-674406b23a08,8dd2e9f4-a02f-42e6-80d8-674406b23a08-358617dc-27fb-46fa-8357-e023ed899ca1-r0-SendEmail-rh_ae-aid_7ba8e7df-1f35-4948-a9d0-8d1fe09f03e1@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-5d78528c-b44b-432b-a239-ab34adfc92ac-r0-SendEmail-rh_ae-aid_5b6e7855-f229-4c6e-9e40-685ecde51060@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-463ee4b2-c854-4db7-a176-91782052383f-r0-SendEmail-rh_ae-aid_9c8dff62-b875-44cd-857b-d4c3dfd6f4b4@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-481ded94-79b4-497a-8277-467526bfccef-r0-SendEmail-rh_ae-aid_ef375235-2e6b-4747-b10f-88a8e166f1d8@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-3948c702-73a8-4ec0-ad31-c2080121ec72-r0-SendEmail-rh_ae-aid_b9689b9c-101c-414d-9465-50920aebca74@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+<SY3PPFC3E8FB408146303D91C66AE77F0EBAF3BA@SY3PPFC3E8FB408.AUSP300.PROD.OUTLOOK.COM>,Spam: Default Microsoft Exchange Online sender domain (onmicrosoft.com)
+<68afa249.050a0220.c1eab.9b9fSMTPIN_ADDED_MISSING@mx.google.com>,"Brand impersonation: Microsoft (QR code), Cyrillic vowel substitution in subject or display name from unknown sender, QR Code with suspicious indicators"
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-55608b97-bb09-4098-bc04-d6de2c5fb306-r0-SendEmail-rh_ae-aid_919104e0-b624-4c81-8d03-eab1ddd9460a@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-f9c17033-f1f6-46f2-9635-fce157626859-r0-SendEmail-rh_ae-aid_eb44f554-0ff3-494c-893e-d8cf7b65d910@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-41823599-acc8-4aeb-8f3e-8592bacbc1be-r0-SendEmail-rh_ae-aid_175ff796-42cc-46c5-86f3-3a17f2bf4b0f@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-178f5cd8-2b6f-4d67-b5cc-59a699f348d4-r0-SendEmail-rh_ae-aid_7780d2ff-25f5-464a-b1c6-70904b05dde8@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-6ffba964-22c0-40c8-bcd7-056d54e32e57-r0-SendEmail-rh_ae-aid_7e2e2bd6-3318-490a-ba4e-4b3f114883e1@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-b26c13f2-adb6-4bbf-8aff-0c523665291e-r0-SendEmail-rh_ae-aid_6af6306c-491a-4050-b727-397b3612a4be@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+<SpoImmediateAlert-6978f167-dc13-4e13-a053-4b885a493148-7a27340d-9265-4e1d-a0c4-adf6630dc87d-r0-SendEmail-rh_ae-aid_e36caa3c-1b33-4104-8993-aa52eec76eca@odspnotify>,Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-9b2d6987-2089-4da1-ab7f-f52178527749-r0-SendEmail-rh_ae-aid_9e62ec46-c828-45d6-99a8-dc83da39d08e@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-d0a58c9e-b80e-4683-9dd2-ce63c44a590e-r0-SendEmail-rh_ae-aid_8993d649-c2bb-41ef-b569-19da708728fc@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-6f1412bd-d102-4e1a-bedd-49c276b263c6-r0-SendEmail-rh_ae-aid_b5d8dc3d-576f-47e8-8c99-5d5983110258@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+<SpoImmediateAlert-4ba8dca9-d453-4498-b9b9-113b55a384f1-5dabe595-fc15-4788-8030-fdd7e78fd74b-r0-SendEmail-rh_ae-aid_8b45f87a-12fe-4443-b7e9-d21db1de8afc@odspnotify>,Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-dab673d3-e3ae-4f4e-bf7f-cd50953fd944,dab673d3-e3ae-4f4e-bf7f-cd50953fd944-9ec24976-e175-49cc-a364-b960a2c3f5cc-r0-SendEmail-rh_ae-aid_c16a5ac0-b388-4b5e-90e1-32aaeb05f6ef@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-bbc6fa4e-fe53-4982-aa6e-ef4efed219bc-r0-SendEmail-rh_ae-aid_ed8692cf-c00f-4142-8f59-b5979b2879c7@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-c7700b65-f1a0-4b33-818a-c53d59b533a8-r0-SendEmail-rh_ae-aid_213ddec4-e997-4977-a478-8150c8b774c7@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-f380ef3f-dbe4-417c-99a4-8e83a1e15ad8-r0-SendEmail-rh_ae-aid_19454281-5cfe-4472-bd9e-380596733824@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-8a195f73-4a0f-49bd-aaa7-d4aecd8b8577-r0-SendEmail-rh_ae-aid_e62344a8-63c8-4e47-bf66-5750d2fc713f@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-72a5ce22-640f-4365-a2b5-ce6fce86635d-r0-SendEmail-rh_ae-aid_edd6ea70-1055-48cf-9a22-72de63ec42c0@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-ebe8f745-8532-4eb8-929d-5d670b4ce8a7-r0-SendEmail-rh_ae-aid_6e5d1a6f-dcb4-48bf-b789-dd415f81f4b7@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-85e769f8-babf-4b6d-b4e1-f1f1f6c8880a-r0-SendEmail-rh_ae-aid_d83fbc9b-f57c-43ab-992f-e22ec55bc499@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-10d6de66-4805-4ff6-9a7b-dd9e6954a7cd-r0-SendEmail-rh_ae-aid_22f43357-a893-458c-88d7-cba9e48ac245@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-a3a7fa87-8478-4796-bcd6-a3f0929d3df3-r0-SendEmail-rh_ae-aid_f0b72a8d-4727-4bcd-ae7f-b2f52ccca17d@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+<SpoImmediateAlert-c8941e15-7428-40f7-952e-89504eabc4f3-c99bb748-f948-49d4-9aae-3e96ce551922-r0-SendEmail-rh_ae-aid_f72bb34c-4d3f-4e2f-902f-92951b84069f@odspnotify>,Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-b499496f-8b66-4dee-a4a2-4a1ebcadbe7b-r0-SendEmail-rh_ae-aid_73b6d069-9218-44e7-a7f1-249e54576af4@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-58972bd6-c4c1-4fe8-9981-5562aead4833,58972bd6-c4c1-4fe8-9981-5562aead4833-467784c7-8899-4ccf-8535-2ac809106be7-r0-SendEmail-rh_ae-aid_cf4fd592-a324-44ac-a254-f9b7b4255304@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-b3d26037-68fc-4261-a38b-41b4a18838d0,b3d26037-68fc-4261-a38b-41b4a18838d0-a51bb742-46b3-45b8-9de2-ddb9dd9df74a-r0-SendEmail-rh_ae-aid_f378610b-e897-4711-ad80-557676526081@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-0df319b6-57cc-4113-89c0-a6911ee3287e-r0-SendEmail-rh_ae-aid_1e68548f-ef45-4e7e-81cd-f749571dbf12@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-89d54853-844f-42dd-99d9-4a5b967c0a89-r0-SendEmail-rh_ae-aid_45ad19a0-2980-4680-b076-17de0c7508ee@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-89d54853-844f-42dd-99d9-4a5b967c0a89-r0-SendEmail-rh_ae-aid_45ad19a0-2980-4680-b076-17de0c7508ee@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-16370fec-e901-4ca4-b785-394854d87ea5-r0-SendEmail-rh_ae-aid_0aa18eee-ede9-4487-a385-4ffe61565157@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-35ffa40e-0533-42bd-924c-ddb365dd03e9-r0-SendEmail-rh_ae-aid_765f3767-674f-4ef3-972e-75b2c723de84@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-bb0b90a4-7a4f-46ab-9d8a-06385b13b95b-r0-SendEmail-rh_ae-aid_c6d02fe8-6db6-44a0-a213-9266c9401253@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-d0057a32-4b5d-40d2-bb81-2c2ce4840fd9-r0-SendEmail-rh_ae-aid_850cf63d-0a45-431f-9f41-bbbae9e3b745@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-15de6b5b-2ea4-46a8-b7b5-f7901ef5f90d-r0-SendEmail-rh_ae-aid_cff0a9a0-1dc1-4e75-8487-72459af3ce63@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-1d6a6eb5-63f4-4dbd-8e4b-d728bc2a7b71-r0-SendEmail-rh_ae-aid_502f620a-8810-4683-b411-7e62da405015@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-becc0a11-f55f-4eb2-97a8-4dbbca6baa1e,becc0a11-f55f-4eb2-97a8-4dbbca6baa1e-aa44a980-1fd2-4a4f-9f34-daa9b4923d0b-r0-SendEmail-rh_ae-aid_37b978d9-cc9c-4f9d-bc15-e4a888129975@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-7c0dc09c-7b2f-4ca3-a665-7c152cac9a67-r0-SendEmail-rh_ae-aid_760a5ff3-4a43-4ada-8023-3280fa13b713@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-edc7886a-a362-4136-a6c6-bc2865a92ffb-r0-SendEmail-rh_ae-aid_a482e6ca-7d7d-4532-ba3a-5ce59dcdf33b@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+<SpoImmediateAlert-60cfd31d-8871-44a2-85f6-2502fb252e3f-cc5164b7-e721-41e4-be97-c61b740d6a7e-r0-SendEmail-rh_ae-aid_4017f5c4-1a82-4a1c-bbb9-e6ef0bbc9836@odspnotify>,Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-becc0a11-f55f-4eb2-97a8-4dbbca6baa1e,becc0a11-f55f-4eb2-97a8-4dbbca6baa1e-d37baa96-cd7d-4056-bcee-e0d0fd3c1442-r0-SendEmail-rh_ae-aid_bbcc805f-dddd-40ce-b0e0-c804a2c29ef3@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-83b26dce-5398-455a-b16d-203dcd96f6d0,83b26dce-5398-455a-b16d-203dcd96f6d0-92b38d9f-28e2-4583-bd6e-54753e10401f-r0-SendEmail-rh_ae-aid_41425261-10d7-487f-af4a-f1845f73181d@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-cb0a0dde-742c-4f54-86fa-11352d0631e1,cb0a0dde-742c-4f54-86fa-11352d0631e1-3cbc4ec6-ba8b-47b4-8ec5-e3de2bfc6991-r0-SendEmail-rh_ae-aid_5ec8fe27-958d-4d40-9e48-9827fb501160@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-63cd5d5d-626a-47f6-af27-8e16153e36e4,63cd5d5d-626a-47f6-af27-8e16153e36e4-43a09d61-4682-41a4-ab39-796e04e5ec38-r0-SendEmail-rh_ae-aid_5b2880ae-c447-4cdc-b4b7-b941daed8d9c@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-3cf75d82-1d64-499a-9cd9-fe8607e8c5d6-r0-SendEmail-rh_ae-aid_39b22b68-0d9d-4e6b-925e-905cebd0cd68@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-63cd5d5d-626a-47f6-af27-8e16153e36e4,63cd5d5d-626a-47f6-af27-8e16153e36e4-f0ecac86-392d-454d-bf74-348efb7914f1-r0-SendEmail-rh_ae-aid_bca1f555-826e-47bd-85e5-52c53b6ad2c1@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-0b08cff8-01fc-4e58-866e-e027c8364977-r0-SendEmail-rh_ae-aid_45b66842-74c6-4bb9-bee1-3428337715a5@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-288b1e88-5487-4486-8d80-6ad55e59ba24-r0-SendEmail-rh_ae-aid_a578c6ce-02d1-4a1a-a9b3-636dd4fb523f@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-8f0776cf-ade5-4af7-8012-2499d496f42b,8f0776cf-ade5-4af7-8012-2499d496f42b-fbd5c1e7-f482-4a11-9183-4999353cc28f-r0-SendEmail-rh_ae-aid_1d59af20-48dd-4ddd-8f7d-b61a28a48f1a@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-becc0a11-f55f-4eb2-97a8-4dbbca6baa1e,becc0a11-f55f-4eb2-97a8-4dbbca6baa1e-4932c54c-fa17-44f8-8c5d-8551743fc486-r0-SendEmail-rh_ae-aid_7a4b0bdb-7481-4736-bd0f-3dcec2fc7d3f@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+<SpoImmediateAlert-8f1c4c16-01fa-4c09-b7c3-4428ea46a410-1839c28f-1b7f-43e9-945a-74118c7d874c-r0-SendEmail-rh_ae-aid_23f5d15d-dc94-4967-9392-1f3478273e1a@odspnotify>,Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-0e81ec0c-d0c2-4535-9624-d3cb49c2452c-r0-SendEmail-rh_ae-aid_4fe440b4-3dfc-4c07-be6e-2fcdd7768bd6@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-ebdef98a-589c-492a-94b6-f116aba02360-r0-SendEmail-rh_ae-aid_7fb2cbaf-52a1-4ef5-ab2d-8d0ee7467492@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-7f5c1437-f7a8-4f47-907d-fbfe317a0785-r0-SendEmail-rh_ae-aid_b0b1b7f9-89b5-496b-bb84-830e8a315efe@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-c999b10a-f519-465e-beb6-f21c61580236-r0-SendEmail-rh_ae-aid_10cea81c-94ae-499e-9610-692ba7adfff5@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-2657bd1c-a1a3-493f-ae66-d7e0d46d984b-r0-SendEmail-rh_ae-aid_e78bd4d4-200a-46fe-9002-42c2c91f689c@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-0b0fd6a2-be4b-48ee-bd15-8fd10e2e5247-r0-SendEmail-rh_ae-aid_256d0162-1208-4fdb-9920-518961c69dad@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-982e55b4-ee6b-48e0-852c-a90d831ca45a-r0-SendEmail-rh_ae-aid_b1dffcf3-c9b3-490a-a422-5056fe405125@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-3d903394-9c28-4bc3-836c-b56658e0bc42-r0-SendEmail-rh_ae-aid_baf58a69-b8c1-4f1e-b9e1-411805f52518@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-90456c29-7073-4df9-a86b-ce907ba17ab5-r0-SendEmail-rh_ae-aid_1e54671b-688a-47e2-88bf-ac139e6959c9@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+<4cC27Z3wylz1xnt@fr-int-smtpout16.hostinger.io>,"Business Email Compromise (BEC) attempt from untrusted sender, Employee impersonation: Payroll fraud, Employee impersonation with urgent request (untrusted sender)"
+"<SpoImmediateAlert-becc0a11-f55f-4eb2-97a8-4dbbca6baa1e,becc0a11-f55f-4eb2-97a8-4dbbca6baa1e-e24de50d-9d97-404b-a922-dd8d853c6f12-r0-SendEmail-rh_ae-aid_673afe28-32d7-4bcd-9e7f-2ae7f33b0df7@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-b57cd81f-5aa2-4e44-a71d-7bcf6e3a3db6,b57cd81f-5aa2-4e44-a71d-7bcf6e3a3db6-f81c41f4-0f61-44c5-a53f-727b6dd1c712-r0-SendEmail-rh_ae-aid_ed9cdee5-cb9b-46ce-b5f9-1b6dadba68ec@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2,7f84689a-4570-4bc1-9ea8-56ab0f9aa9a2-3192ad5f-da63-4d42-8fa6-da153034db25-r0-SendEmail-rh_ae-aid_8189cd5c-f87b-4858-9e37-d245194a5a70@odspnotify>",Credential phishing: Suspicious e-sign agreement document notification
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-c2eba136-edb8-4bf7-9ca4-e71fb1915df8-r0-SendEmail-rh_ae-aid_ddf7f169-4ab6-4284-94e1-6122bd57ac0c@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-d90bd1e6-50b0-4384-b43d-04f2b38a946a-r0-SendEmail-rh_ae-aid_680cda45-5a77-48b4-a880-e83fa4c5e749@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-1a5e7f4f-1171-42c4-9f27-02b6fd80e767-r0-SendEmail-rh_ae-aid_2dec5d0f-e89c-4ef7-80a8-0e965a9fdb53@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-5be0d653-2527-40cf-a31f-1c2906448537-r0-SendEmail-rh_ae-aid_d8d8a00d-22a2-48fa-9272-d53be7bf8201@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-5732a59a-d46d-4cd4-800c-96f6a1e02892-r0-SendEmail-rh_ae-aid_759199df-8802-4204-94cb-e92ecc6053cc@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-cae94093-7e45-4e62-bd8b-5cb6a88c1a9f-r0-SendEmail-rh_ae-aid_d773d7cf-4ce1-4ca4-8ec6-853ba2264272@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-dffdfd44-9c85-4633-9b07-eaa384fda55c-r0-SendEmail-rh_ae-aid_d8e70805-7a40-4e80-8826-e6a01a045883@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-046c5cdb-f7a7-4fb9-8a2b-cd1c408db0c1-r0-SendEmail-rh_ae-aid_1cd28c42-6d1a-4f88-b576-38f880d8a639@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-97106165-1868-477b-b9e9-ee4dfea85423-r0-SendEmail-rh_ae-aid_cc463bd3-eaa2-4cc3-a511-a263c769b263@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-e30dcb38-7059-408a-bbca-26d605bb8cdd-r0-SendEmail-rh_ae-aid_5ea80714-0faa-420d-80ab-6fb0876d2dd0@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-1a2e008a-ee76-4127-8000-2ccc5e30d653-r0-SendEmail-rh_ae-aid_cc1c3d6f-ee92-43b7-a9aa-e807ad288a54@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-3193396c-1a87-4852-9998-4b1f07e057ee-r0-SendEmail-rh_ae-aid_26ea5dc0-8075-46ca-a725-2fb69d7f457b@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-dcb60aec-caba-4b1b-8651-b88af8ee37d4-r0-SendEmail-rh_ae-aid_63dc7ced-19b7-4710-bf56-b734dd4c9ca8@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-22e48caa-0add-45be-9c7c-7e4c42adc2aa-r0-SendEmail-rh_ae-aid_f5532606-b1dc-495d-92be-a09bd2eaedb5@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-25d83308-4f32-4845-8cb0-5d579e0b52bc-r0-SendEmail-rh_ae-aid_cdeff113-43ba-4760-9caa-3619ef87f012@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-00724bf4-4ee7-4673-8793-77812a08c0fc-r0-SendEmail-rh_ae-aid_89f29eab-7b63-49fe-821d-6e5dce79a566@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-48296167-778f-4f08-9906-81643b54661b-r0-SendEmail-rh_ae-aid_95eb289f-7dda-494e-b42b-652b08835e30@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-0b5a46d0-f84f-441c-ab94-9f175c76166f-r0-SendEmail-rh_ae-aid_693b4dd7-79dd-4fd9-bff4-aa4ea6070ba4@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-bbbfd11b-9edf-4f61-9e01-e2dd1f35ac5f-r0-SendEmail-rh_ae-aid_4505e5df-f835-4238-82c1-60211590a26d@odspnotify>",Brand impersonation: Adobe with suspicious language and link
+"<SpoImmediateAlert-5b681228-6a38-4abb-b730-2fb0614e8d38,5b681228-6a38-4abb-b730-2fb0614e8d38-a68f8c19-d8c7-4cc3-8ee1-16c662b82c5a-r0-SendEmail-rh_ae-aid_bf83b409-3557-4ef2-ac9b-0d78d166f34c@odspnotify>",Brand impersonation: Adobe with suspicious language and link
